@@ -1,0 +1,5 @@
+Programming Hexiwear (Wearables + IoT) in Python - site hackster.io
+https://www.hackster.io/luigifcerfeda/programming-hexiwear-wearables-iot-in-python-c2faa1
+
+TALKING IBREATHE BREATHALYZER WITH BLUETOOTH IOS APP AND IOT - site instructables
+https://www.instructables.com/id/Talking-IBreathe-Breathalyzer-With-Bluetooth-IOS-A/
